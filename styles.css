@@ -2,3 +2,22 @@
     text-align: center;
     padding: 50px;
 }
+
+.container {
+    display: flex;
+    padding: 20px;
+}
+
+
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: lightgray;
+    margin-top: 350px;
+}
+
+nav {
+    background-color: lightblue;
+    padding: 10px;
+    text-align: center;
+}
