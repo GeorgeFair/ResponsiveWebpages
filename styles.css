@@ -21,3 +21,12 @@ nav {
     padding: 10px;
     text-align: center;
 }
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.block {
+    margin: 8px;
+}
