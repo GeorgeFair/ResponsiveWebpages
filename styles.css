@@ -34,3 +34,14 @@ nav {
 img {
     width: 100%;
 }
+
+/* Media Queries for Responsive Design */
+@media (max-width: 800px) {
+
+
+}
+
+@media (min-width: 800px) {
+
+
+}
